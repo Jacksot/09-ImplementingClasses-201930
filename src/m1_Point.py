@@ -92,7 +92,7 @@ class Point(object):
         return self.traveled_so_far
 
     def closer_to(self):
-        
+
 
 
 
